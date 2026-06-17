@@ -101,7 +101,7 @@ var lyr_bdy_btn_6 = new ol.layer.Vector({
                 style: style_bdy_btn_6,
                 popuplayertitle: 'ขอบเขตตำบล',
                 interactive: true,
-                title: '<img src="styles/legend/bdy_btn_6.png" /> bdy_btn'
+                title: '<img src="styles/legend/bdy_btn_6.png" /> ขอบเขตตำบล'
             });
 
 var group_BTN = new ol.layer.Group({
